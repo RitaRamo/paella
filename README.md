@@ -4,8 +4,8 @@ This code is based on the repo [SmallCap](https://github.com/RitaRamo/smallcap)
 
 ### Preprocessing
 
-The data, features and retrieved captions used are available on HuggingFace at `ritaramos/paella`. 
-- (available tomorrow)
+The data, the features and retrieved captions used are available on HuggingFace at `ritaramos/paella`. 
+We used the same code of SmallCap to preprocess the features and retrieved captions.
 
 ### Model training
 
@@ -13,7 +13,7 @@ The data, features and retrieved captions used are available on HuggingFace at `
 
 ### Inference
 
-Will be available tomorrow
+Will be available tomorrow 
 
 
 
