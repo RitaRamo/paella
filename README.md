@@ -9,7 +9,7 @@ The data, features and retrieved captions used are available on HuggingFace at `
 
 ### Model training
 
-```python train.py``` - See examples of how to run Paella, Paella_core, Paella_mono in the folder ```src/exps```
+```python train.py``` - See examples of how to run Paella, Paella_core, Paella_mono in the folder ```exps```
 
 ### Inference
 
