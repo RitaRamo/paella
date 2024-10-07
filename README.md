@@ -13,9 +13,6 @@ Place the respective data under the folder ```data```, and the features under th
 
 ```python train.py``` - See examples of how to run Paella, Paella_core, Paella_mono in the folder ```exps```
 
-### Inference
-
-Will be available tomorrow 
 
 
 
